@@ -20,6 +20,8 @@ This project implements Dijkstra's algorithm to find the shortest paths in a wei
    ```bash
    g++ main.cpp -o dijkstra
 ## Example Input
+
+The input for the graph can be provided in a file named `graph.txt`. Below is an example of the content:
 8
 15
 g a 9
